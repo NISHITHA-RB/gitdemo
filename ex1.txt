@@ -1,0 +1,2 @@
+hi git bash
+how are you
